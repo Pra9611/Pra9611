@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>Data Science projects, Machine Learning models, and a Real Estate Listing Platform.<br><br>👯 I’m looking to collaborate on<br>Open-source Data Science and AI/ML projects.<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning, MLOps, and deploying ML models on cloud (AWS / GCP).<br><br>🌱 I’m currently learning<br>Deep Learning, MLOps, FastAPI, and Cloud for Data Science.<br><br>💬 Ask me about<br>Python, Data Analysis, Machine Learning, SQL, and Data Visualization.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and building real-world data products.<br>
+🔭 I’m currently working on Data Science projects, Machine Learning models, and a Real Estate Listing Platform and recommended system models.<br><br>👯 I’m looking to collaborate on Open-source Data Science and AI/ML projects.<br>🤝 I’m looking for help with Advanced Machine Learning, MLOps, and deploying ML models on cloud (AWS / GCP)<br>.<br>🌱 I’m currently learning Deep Learning, MLOps, FastAPI, and Cloud for Data Science<br>.<br>💬 Ask me about Python, Data Analysis, Machine Learning, SQL, and Data Visualization<br>.<br>⚡ Fun fact I enjoy turning raw data into meaningful insights and building real-world data products.<br>
 
 
 ## 🌐 Socials:
